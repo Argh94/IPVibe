@@ -31,14 +31,14 @@
 
 ---
 
-## 🛠️ External Libraries | کتابخانه‌های استفاده‌شده
 
-- [Bootstrap 4.5.2](https://getbootstrap.com/)
-- [Font Awesome 5.15.4](https://fontawesome.com/v5.15/)
-- [Flag Icon CSS 3.5.0](https://github.com/lipis/flag-icon-css)
-- [Google Fonts (Roboto)](https://fonts.google.com/specimen/Roboto)
-- [jQuery 3.5.1](https://jquery.com/)
+## 🖼️ اسکرین‌شات‌ها
 
+## 📸 Screenshots
+
+| Theme 1 | Theme 2 |
+|------------|-------------|
+| ![Dark Theme](screenshots/theme1.jpg) | ![Light Theme](screenshots/theme2.jpg) |
 ---
 
 ## ⚙️ How It Works | نحوه کار
