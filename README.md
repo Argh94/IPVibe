@@ -38,7 +38,7 @@
 
 | Theme 1 | Theme 2 |
 |------------|-------------|
-| ![Dark Theme](screenshots/theme1.jpg) | ![Light Theme](screenshots/theme2.jpg) |
+| ![Dark Theme](https://github.com/Argh94/IPVibe/blob/main/screenshot/theme1.jpg) | ![Light Theme](https://github.com/Argh94/IPVibe/blob/main/screenshot/theme2.jpg) |
 ---
 
 ## ⚙️ How It Works | نحوه کار
